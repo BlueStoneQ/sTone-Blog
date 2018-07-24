@@ -1,0 +1,20 @@
+{
+  "name": "stone-blog",
+  "version": "0.0.1",
+  "description": "blog edit comment React Node Koa Mysql middleWare ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueStoneQ/sTone-Blog.git"
+  },
+  "author": "qiaoyang <qiaoyang@bonc.com.cn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueStoneQ/sTone-Blog/issues"
+  },
+  "homepage": "https://github.com/BlueStoneQ/sTone-Blog#readme"
+}

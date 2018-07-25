@@ -4,8 +4,8 @@
   "description": "blog edit comment React Node Koa Mysql middleWare ",
   "main": "app.js",
   "scripts": {
-    "test": "test",
-    "start": "node app.js"
+    "test": "NODE_ENV=test echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BlueStoneQ/sTone-Blog/issues"
   },
-  "homepage": "https://github.com/BlueStoneQ/sTone-Blog#readme"
+  "homepage": "https://github.com/BlueStoneQ/sTone-Blog#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
 }

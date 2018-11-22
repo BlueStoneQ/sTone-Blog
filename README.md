@@ -31,5 +31,5 @@ React Nodejs Koa2 Mysql
 
 # 参考链接
 ## 整个工程架构第一参考：
-[简书](https://www.jianshu.com/p/6b816c609669)
+[简书](https://www.jianshu.com/p/6b816c609669) <br/>
 [参考项目源码](https://github.com/tough1985/hello-koa2/blob/master/package.json)
